@@ -26,4 +26,4 @@ This project is designed to detect anomalies in sensor data by comparing actual 
 
 ---
 
-This project is part of the DS.MISIS.HACK 2.0 competition.
+This project is part of the [DS.MISIS.HACK 2.0](https://www.kaggle.com/competitions/misis-hack/) competition.
